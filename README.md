@@ -1,61 +1,81 @@
 # hey!tunes 🎧
 
-A free, privacy-focused personal audio toolkit for Android.
+> A free, privacy-focused personal audio toolkit for Android.
 
-**Your music. Your tools. Your privacy.**
+**Your Music. Your Tools. Your Privacy.**
 
-## Download
+---
 
-### 64-bit APK — Recommended
+# 📥 Download
 
-For most modern Android smartphones:
+### Latest Release (v1.1.0)
 
-[Download hey!tunes 64-bit APK](https://github.com/heyy-i-am-sathish/hey-tunes/releases/latest/download/hey-tunes-64bit-arm64-v8a.apk)
+- 📱 **64-bit APK (Recommended)**
+- 📱 **32-bit APK**
 
-### 32-bit APK
+👉 Download from the **Releases** section.
 
-For older Android smartphones running a 32-bit system:
+---
 
-[Download hey!tunes 32-bit APK](https://github.com/heyy-i-am-sathish/hey-tunes/releases/latest/download/hey-tunes-32bit-armeabi-v7a.apk)
+# ✨ Features
 
-> Not sure which one to choose? Try the 64-bit version first.
+- 🎵 Local Music Player
+- 📻 40,000+ FM Radio Stations
+- 🎙 Podcasts
+- ✂️ Audio Cutter
+- 🔄 Audio Converter
+- 📦 Audio Compressor
+- ✨ Noise Reducer
+- 🎤 Voice Recorder
+- 🔐 Private Backup
+- 🌍 Multi-language Support
+- 🚫 No Ads
 
-## Features
+---
 
-- Local music player
-- Albums, playlists and favourites
-- Background playback
-- Live radio and podcasts
-- Audio converter
-- Smart audio compressor
-- Audio cutter and ringtone maker
-- Noise reducer
-- Audio recorder
-- Private backup
-- Multiple-language support
-- No advertisements
-- No account required
+# 🆕 What's New (v1.1.0)
 
-## Installation
+- 🎨 Completely redesigned Home Screen
+- 🏆 Achievements with unlock animations
+- 🖼 Automatic Album Cover support
+- ⚙️ Redesigned Settings page
+- 📻 Expanded Radio with 40,000+ FM stations
+- 🎓 Quick Start Tutorial
+- 🎨 Refreshed App Icon
+- 🛠 Performance improvements & Bug fixes
 
-1. Download the correct APK for your phone.
-2. Open the downloaded APK.
-3. Allow installation from your browser or file manager when Android asks.
-4. Install and open hey!tunes.
-5. Grant only the permissions required for the features you use.
+---
 
-## Privacy
 
-hey!tunes is designed with privacy and user control in mind. Local music playback is handled on your device.
+# 🚀 Installation
 
-## Feedback
+1. Download the latest APK.
+2. Install it on your Android device.
+3. Allow "Install from Unknown Sources" if prompted.
+4. Enjoy!
 
-Found a bug or have a suggestion?
+---
 
-Open an issue through the **Issues** section of this GitHub repository.
+# ❤️ Support
 
-## Developer
+If you like this project,
 
-Built with ❤️ by **Sathish Kumar J**
+⭐ Star this repository
 
-The first working version of hey!tunes was designed and built in less than a day with the support of AI tools.
+Share your feedback through GitHub Issues.
+
+---
+
+# 📄 License
+
+This project is released for learning and personal use.
+
+---
+
+## 👨‍💻 Developer
+
+**Sathish**
+
+Building privacy-first Android applications with a focus on beautiful UI, performance, and user experience.
+
+> "For a creator to benefit, the user must benefit first."
